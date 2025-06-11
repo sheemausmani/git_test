@@ -1,2 +1,3 @@
 # Learning Git
-Hello Odin! Learning Git with Odin is fun!
+Hello Odin!\
+Learning Git with Odin is fun!
